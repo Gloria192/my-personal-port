@@ -57,6 +57,7 @@ h1{
 } */ */
 #image1{
     width: 100%;
+    
 
 }
 #image{
@@ -69,4 +70,8 @@ h1{
     font-size:30px;
     color:rgb(14, 141, 88);
     font-style: oblique;
+
+}
+h2{
+    background-color: brown;
 }
